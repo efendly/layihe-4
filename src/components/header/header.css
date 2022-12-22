@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
+*{
+    margin:0;
+    padding:0;
+}
+
+.container{
+    width: 100%;
+    height: 80px;
+    background-color: #496ddb;
+}
+
+.blog h1{
+    color: #ffeedb;
+    font-weight: 900;
+    font-family:Luckiest Guy;
+    transform: translate(20%, 10px);
+    font-size:45px;
+    padding-top:10px;
+    font-weight: 10;
+}

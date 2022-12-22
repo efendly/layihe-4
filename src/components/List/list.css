@@ -1,0 +1,38 @@
+.list{
+   position:absolute;
+
+    padding: 20px;
+    width: 260px;
+    height: auto;
+    margin-left:800px;
+    margin-top:-80px;
+}
+
+.list-button{
+    margin-top: 40px;
+    background-color: gray;
+    border:none;
+    color:#ffeedb;
+    width:100px;
+    height:25px;
+    cursor: pointer;
+}
+.list ul{
+    list-style: none;
+}
+.list-input{
+    padding: 5px;
+    width:250px;
+}
+.blog-list{
+    border: 1px solid black;
+    padding: 20px;
+        width: 260px;
+        height: auto;
+        position: absolute;
+        margin-bottom:500px;
+    
+}
+.list-ul button{
+    cursor: pointer;
+}

@@ -1,0 +1,31 @@
+.card{
+    width: 350px;
+    height: 160px;
+    background-color: #ffeedb;
+    margin-bottom:10px;
+    display: flex;
+    margin-left:275px;
+}
+.movieImg{
+    width: 120px;
+    height: 140px;
+    margin: 10px ;
+}
+h1{
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+.addListData{
+    background-color:#496ddb;
+    color: #ffeedb;
+    border: 1px solid gray;
+    width: 80px;
+    height: 30px;
+    border-radius: 2px;
+    cursor: pointer;
+}
+.desc{
+    position:relative;
+    
+    
+}
